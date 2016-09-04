@@ -1,3 +1,4 @@
-# Task App
+# Ajax PHP MySQL Registration Form
 
-This application will track your tasks throughout the day
+
+A Registration form that use Ajax, PHP, MySQL to register a user without reloading the webpage
