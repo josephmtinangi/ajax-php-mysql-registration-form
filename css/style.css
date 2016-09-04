@@ -1,0 +1,15 @@
+@import 'https://fonts.googleapis.com/css?family=Slabo+27px';
+
+body {
+  font-family: 'Slabo 27px', serif;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+form {
+  padding: 20px;
+}
